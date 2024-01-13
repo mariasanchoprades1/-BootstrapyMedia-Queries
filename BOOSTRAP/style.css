@@ -1,0 +1,182 @@
+#subtitulo,
+h1 {
+    color: #036565;
+}
+
+
+.nav-link {
+    background-color: #f2f2f2;
+    color: #666;
+    border-radius: 10px 10px 0 0;
+    padding: 10px 15px;
+    margin: 0 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#propro,
+h3 {
+    color: #036565;
+}
+
+.col-12 {
+    text-align: right;
+    font-size: 0.9rem;
+}
+
+.col-12 .idioma {
+    color: #666;
+    margin-right: 5px;
+}
+
+.btn-outline-secondary {
+    color: #6c757d;
+    border-color: #6c757d;
+    color: #666;
+    background-color: #f2f2f2;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin: 0 2px;
+    text-decoration: none;
+}
+
+button,
+select {
+    text-transform: none;
+    background-color: #a7d6f6;
+    border: none;
+}
+
+#registro {
+    background-color: #a7d6f6;
+    border-radius: 5%;
+}
+
+#btnreg {
+
+    text-align: center;
+    margin-left: 4rem;
+    background-color: #8bcf68;
+    margin-top: 1rem;
+    border-radius: 10%;
+    width: 10rem;
+    height: 4rem;
+}
+
+#parraforegistro {
+
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+
+}
+
+#cajllista {
+    background-color: #eeeeee;
+    border-radius: 2%;
+    width: 100%;
+    height: auto;
+    margin-right: 3rem;
+}
+
+.llista1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.llista1 img {
+    margin-right: 1rem;
+}
+
+#cajwho {
+    background-color: #fcf9ce;
+    border-radius: 2%;
+    width: 100%;
+    height: auto;
+    margin-right: 3rem;
+
+}
+
+.llista2 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.llista2 img {
+    margin-right: 1rem;
+}
+
+#cajwhosubtitulo,
+h2 {
+    color: #a52a2a;
+}
+
+#cajwho,
+p {
+    color: #0b0b0b;
+}
+
+#subprogram,
+h4 {
+    color: #036565;
+
+}
+
+.cartabody {
+    background-color: #2e5976;
+}
+
+footer {
+    background-color: #877b7b;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: #ccc;
+}
+
+footer img {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+#cajtwitter {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.llista3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+#identica {
+    background-color: #77b255;
+    color: white;
+}
+
+#twitter {
+    background-color: #55acee;
+    color: white;
+}
+
+.llista3 img {
+    margin-right: 10px;
+}
+
+.llista3 p {
+    margin: 0;
+}

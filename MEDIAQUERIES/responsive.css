@@ -1,0 +1,207 @@
+@media (max-width: 990px) {
+
+
+
+  header img {
+    width: 30%;
+    height: 40%;
+    padding-left: 20rem;
+  }
+
+  #language {
+    padding-right: 20rem;
+  }
+
+  #subtitulo h2 {
+    padding-left: 20rem;
+    font-size: 2rem;
+  }
+
+  #contenedor-nav1 {
+    padding-right: 20rem;
+  }
+
+  #nav2 {
+    padding-left: 20rem;
+  }
+
+  #izquierda {
+
+    padding-left: 20rem;
+    font-size: small;
+  }
+
+  #festival {
+    width: 80%;
+
+  }
+
+  .proimg {
+    width: 50%;
+    height: 50%;
+  }
+
+  #programa {
+    width: 80%;
+
+  }
+
+  #foto {
+    width: 50%;
+    height: 50%;
+  }
+
+  #subprogram {
+    width: 80%;
+    height: 10%;
+  }
+
+  #subfestival {
+    width: 80%;
+    height: 10%;
+  }
+
+  #derecha {
+
+    padding-right: 20rem;
+    font-size: small;
+  }
+
+  #cajitas p {
+    font-size: smaller;
+    width: 90%;
+  }
+
+  footer {
+    width: 80%;
+  }
+
+}
+
+
+@media (max-width: 790px) {
+  #logo img {
+    margin-left: 5px;
+    padding-left: 28rem;
+  }
+
+  #nav1,
+  #botones {
+    padding-right: 12rem;
+  }
+
+
+
+
+
+  #subtitulo h2 {
+    font-size: 135%;
+    padding-left: 30rem;
+  }
+
+  #menu2 {
+    width: 49%;
+    padding-left: 9rem;
+  }
+
+  #language {
+    margin-right: 150px;
+  }
+
+  #programa {
+    width: 70%;
+    padding-left: 9rem;
+
+  }
+
+  #foto {
+    width: 40%;
+    height: 40%;
+    padding-top: 5%;
+  }
+
+  #subprogram {
+    width: 61%;
+    height: 10%;
+    padding-left: 10rem;
+  }
+
+  #festival {
+    width: 61%;
+    padding-left: 10rem;
+  }
+
+  #registro {
+    text-align: center;
+    margin-left: -77px;
+    width: 73%;
+    height: auto;
+  }
+
+  #cajllista {
+    width: 102%;
+    height: 341px;
+    margin-top: 33px;
+    margin-left: -5rem;
+  }
+
+  #cajwho {
+    width: 100%;
+    height: 450px;
+    margin-top: 5px;
+    margin-left: -4rem;
+  }
+
+  #cajtwitter {
+    margin-left: -62%;
+  }
+
+  #llista3 {
+    margin-left: 9rem;
+  }
+
+  footer {
+    margin-top: -57px;
+  }
+
+}
+
+@media (max-width: 690px) {
+
+  #logo img {
+    margin-left: 5px;
+    padding-left: 30rem;
+  }
+
+  #botones {
+    padding-right: 246px;
+  }
+
+  #nav1 {
+    padding-right: 12rem;
+  }
+
+  #subtitulo {
+    padding-left: 73px;
+
+  }
+
+  #subtitulo h2 {
+    font-size: 135%;
+    padding-left: 25rem;
+  }
+
+  #menu2 {
+    width: 25%;
+    padding-left: 9rem;
+  }
+
+  #language {
+    margin-right: 292px;
+  }
+
+  #proparra {
+    width: 75%
+  }
+
+}
