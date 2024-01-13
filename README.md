@@ -1,2 +1,2 @@
-# -BootstrapyMedia-Queries
+# BootstrapyMediaQueries
 Ejercicio Diseño interfaces web
